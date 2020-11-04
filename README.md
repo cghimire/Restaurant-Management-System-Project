@@ -15,7 +15,6 @@
 - [Project Scope](#project-scope)
 - [User Interface](#user-interface)
 - [Demo](#demo)
-- [Model Evaluation and Conclusion](#model-evaluation-and-conclusion)
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
@@ -40,20 +39,7 @@ The restaurant management system is created to efficiently manage a number of re
 http://pluto.hood.edu/~lg13/index.html
 ```
 
-## Contributing
+## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+This is a group project-- big thanks to Lavan and Neha for contributing to the database and documentation! 
 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
