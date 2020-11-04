@@ -20,7 +20,7 @@
 ## 🧐 About <a name = "about"></a>
 This project is about a Relational Database Management System for the management of multiple restaurants.
 
-The goal of this relational database management system is to provide detailed information on day-to-day activities to efficiently run a profitable business as well as forecast future requirements for the management to plan on
+The goal of this relational database management system is to provide detailed information on day-to-day activities to efficiently run a profitable business as well as forecast future requirements for the management to plan on.
 
 ## 🎈Project Scope <a name = "project-scope"></a>
 
