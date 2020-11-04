@@ -36,7 +36,7 @@ The restaurant management system is created to efficiently manage a number of re
 
 ![alt text](https://github.com/cghimire/Restaurant-Management-System-Project/blob/master/Screen%20Shot%20RMS.png "screenshot")
 
-Thia ia a screenshot of the web user interface. You can check the actual website by using ([web-link](http://pluto.hood.edu/~lg13/index.html/#use-web-link))
+Thia ia a screenshot of the web user interface. You can check the actual website by using ([web-link](http://pluto.hood.edu/~lg13/index.html))
 ```
 http://pluto.hood.edu/~lg13/index.html
 ```
