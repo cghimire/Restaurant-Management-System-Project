@@ -13,7 +13,7 @@
 ## 📝 Table of Contents
 - [About](#about)
 - [Project Scope](#project-scope)
-- [Data Preparation](#data-preparation)
+- [User Interface](#user-interface)
 - [Data Modeling](#data-modeling)
 - [Model Evaluation and Conclusion](#model-evaluation-and-conclusion)
 - [Acknowledgments](#acknowledgement)
@@ -25,21 +25,25 @@ The goal of this relational database management system is to provide detailed in
 
 ## 🎈Project Scope <a name = "project-scope"></a>
 
-## Demo
-http://pluto.hood.edu/~lg13/index.html
+The restaurant management system is created to efficiently manage a number of restaurants by an owner. The system will contain 15 entities and relationships combined. The front-end of the system is built using HTML, CSS, JavaScript and PHP languages along with MySQL that is used for database management.
 
+## User Interface <a name = "user-interface"></a>
+
+
+![alt text](https://github.com/cghimire/Restaurant-Management-System-Project/blob/master/UI.png "UI")
+
+## Demo
+
+![alt text](https://github.com/cghimire/Restaurant-Management-System-Project/blob/master/Screen%20Shot%20RMS.png "screenshot")
+
+Thia ia a screenshot of the web user interface. You can check the actual website by using ([web-link](http://pluto.hood.edu/~lg13/index.html/#use-web-link))
+```
+http://pluto.hood.edu/~lg13/index.html
+```
 
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
 
 ### Installing
 
